@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Roboto+Slab:wght@300&family=Roboto:wght@300&family=RocknRoll+One&display=swap');
+
+
+/* style for all body*/
+*{ 
+  font-family: 'RocknRoll One', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+}
+/* style for footer*/
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  bottom: 0;
+  width: 100%;
+}
+/* style for heading*/
+h2{
+  margin-bottom: 40px;
+  margin-top: 100px;
+  color: rgb(83, 168, 101);
+}
+h5{
+  margin-top: 60px;
+  color: rgb(83, 168, 101);
+}
+h6{
+  color:#00A300 ;
+}
+/* style for navbar*/
+.custom-navbar {
+  background-color: rgb(83, 168, 101); 
+  color: white;
+  font-style: italic;
+}
+
+
